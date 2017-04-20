@@ -1,3 +1,3 @@
-# 04-18 Intent demo code
+# Intents
 
-Code demoing Intents (with some SMS)
+This repository contains code examples demonstrating Android Intents, Broadcast Receivers, and SMS messaging. See the accompanying [lecture notes](https://info448-s17.github.io/lecture-notes/intents.html) for more details.
